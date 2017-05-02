@@ -7,7 +7,7 @@ int main()
   scanf("%d", &X);
   scanf("%d", &Y);
 
-  printf("%d", X + Y);
+  printf("%d\n", X + Y);
 
   return 0;
 }
