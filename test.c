@@ -2,12 +2,16 @@
 
 int main()
 {
-  int X, Y;
+  printf("Row ");
+  printf("Row ");
+  printf("Row ");
+  printf("Your Car");
+  printf("\n");
 
-  scanf("%d", &X);
-  scanf("%d", &Y);
-
-  printf("%d\n", X + Y);
+  printf("Gently ");
+  printf("Down ");
+  printf("The Stream");
+  printf("\n");
 
   return 0;
 }
