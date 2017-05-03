@@ -5,13 +5,11 @@ int main()
   printf("Row ");
   printf("Row ");
   printf("Row ");
-  printf("Your Car");
-  printf("\n");
+  printf("Your Car\n");
 
   printf("Gently ");
   printf("Down ");
-  printf("The Stream");
-  printf("\n");
+  printf("The Stream\n");
 
   return 0;
 }
